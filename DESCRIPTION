@@ -1,0 +1,14 @@
+Package: bayesianETAS
+Title: Bayesian Estimation of the ETAS Model for Earthquake Occurrences
+Version: 1.0
+Date: 2016-12-10
+Depends: R (>= 2.15.0)
+Author: Gordon J. Ross
+Maintainer: Gordon J. Ross <gordon@gordonjross.co.uk>
+Description: The Epidemic Type Aftershock Sequence  (ETAS) model is one of the best-performing methods for modeling and forecasting earthquake occurrences. This package implements Bayesian estimation routines to draw samples from the full posterior distribution of the model parameters, given an earthquake catalog.
+License: GPL-3
+RoxygenNote: 5.0.1
+NeedsCompilation: yes
+Packaged: 2016-12-14 11:28:37 UTC; gordonross
+Repository: CRAN
+Date/Publication: 2016-12-14 17:23:27

@@ -1,0 +1,14 @@
+7f21a7708aa174dc2a310d399c61ab8a *DESCRIPTION
+1c79c1a557648c5e7ab0d0de22031c7a *NAMESPACE
+16a8be5e96566e99e9674fce0ad66018 *R/bayesianETAS-package.R
+bf5870da10b1c3ed3a6e4077024eda69 *R/maxLikelihoodETAS.R
+a53b2fff48f4f8bef9302c58f64df722 *R/sampleETASposterior.R
+32cbee7c2949f8a0cad6135e64c80b7a *R/simulateETAS.R
+c1cb880ecacd4cbdd4c70066df285f87 *R/simulateNHPP.R
+0e1f4abdfe7289ff4973482d7a365ee6 *man/bayesianETAS.Rd
+6072003355b294d176658d5b5a5e4b6f *man/maxLikelihoodETAS.Rd
+254ef57f78fe0380763fa1724284b5c6 *man/sampleETASposterior.Rd
+802b3cdca326e35bbaeac3c90b84d08b *man/simulateETAS.Rd
+d166fccfb98d69a87020b2024315201f *man/simulateNHPP.Rd
+e3d3cb360fbfdb3c6974e14eb5f09870 *src/Makevars
+302b8874d036535242dc1cf85b566048 *src/etas.cpp
