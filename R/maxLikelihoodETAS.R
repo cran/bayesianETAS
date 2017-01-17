@@ -78,7 +78,7 @@ maxLikelihoodETAS <- function(ts,magnitudes,M0,T,initval=NA,displayOutput=TRUE) 
     initval <- initval[1:5]
   }
   
-  temp <- optim(initval, fn)
+  temp <- optim(initval, fn, control=list(trace=FALSE))
   
   #now add the GR estimator....
   beta <- 1/mean(marks-M0)

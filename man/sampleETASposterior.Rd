@@ -49,6 +49,6 @@ sampleETASposterior(catalog$ts, catalog$magnitudes, M0, T, sims=5000)
 Gordon J Ross
 }
 \references{
-Gordon J. Ross - Bayesian Estimation of the ETAS Model for Earthquake Occurrences (2016)
+Gordon J. Ross - Bayesian Estimation of the ETAS Model for Earthquake Occurrences (2016), available from http://www.gordonjross.co.uk/bayesianetas.pdf
 }
 

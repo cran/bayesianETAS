@@ -12,6 +12,6 @@ Bayesian estimation of the ETAS model for earthquake occurrences
 Gordon J Ross \email{gordon@gordonjross.co.uk}
 }
 \references{
-Gordon J. Ross - Bayesian Estimation of the ETAS Model for Earthquake Occurrences (2016)
+Gordon J. Ross - Bayesian Estimation of the ETAS Model for Earthquake Occurrences (2016), available from http://www.gordonjross.co.uk/bayesianetas.pdf
 }
 

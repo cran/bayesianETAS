@@ -53,6 +53,6 @@ simulateETAS(0.2, 0.2, 1.5, 0.5, 2, beta, M0, T=500, displayOutput=FALSE)
 Gordon J Ross
 }
 \references{
-Gordon J. Ross - Bayesian Estimation of the ETAS Model for Earthquake Occurrences (2016)
+Gordon J. Ross - Bayesian Estimation of the ETAS Model for Earthquake Occurrences (2016), available from http://www.gordonjross.co.uk/bayesianetas.pdf
 }
 
